@@ -10,7 +10,6 @@ export function useFetch(url) {
             arrayData.value = await res.json()
         } catch (error) {
             console.log(error)
-            
         }
     })
 

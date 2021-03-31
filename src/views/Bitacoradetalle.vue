@@ -11,13 +11,9 @@
 export default {
     props:['ID'],
     setup(props) {
-        console.log(props.ID)
-
-  
-
-        
+        console.log(props.ID);
     },
-}
+};
 </script>
 <style scoped>
 
