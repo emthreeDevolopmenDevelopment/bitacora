@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "NOMBRE": "Bitacora de chillers",
+    "TIPOS": "Chiller",
+    "DESTINOS": "RM",
+    "CREADOPOR": "Juzzet Barba",
+    "ESTADO": "Activa"
+    
+  },
+  {
+    "ID": 2,
+    "NOMBRE": "Bitacora de calderas",
+    "TIPOS": "Calderas",
+    "DESTINOS": "RM",
+    "CREADOPOR": "Juzzet Barba",
+    "ESTADO": "Activa",
+    "ACTIVIDADES": [
+      {}
+    ]
+  }
+]
